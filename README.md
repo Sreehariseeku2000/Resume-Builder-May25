@@ -5,8 +5,8 @@
 3. Run the react app using command : npm run dev 
 4. Installing 3rd party libraries
        - Material UI : npm install @mui/material @emotion/react @emotion/styled
-       - React Bootstrap : npm install react-icons --save
-       - React Bootstrap
+       - React icons : npm install react-icons --save
+       
 5. Create components : 
        - Create page folder 
        - Create component folder
